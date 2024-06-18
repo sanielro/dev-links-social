@@ -1,0 +1,27 @@
+{
+    "name": "Mi Fm",
+    "short_name": "Saniel",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#282c35",
+    "theme_color": "#282c35",
+    "description": " - Dev Links Social",
+    "icons": [
+      {
+        "src": "img/icons/maskable.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "img/icons/general.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ],
+    "launch_handler": {
+      "client_mode": "focus-existing"
+    }
+  }
