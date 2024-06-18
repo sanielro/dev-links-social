@@ -9,13 +9,13 @@
     "description": " - Dev Links Social",
     "icons": [
       {
-        "src": "img/icons/maskable.png",
+        "src": "/assets/maskable.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
       },
       {
-        "src": "img/icons/general.png",
+        "src": "/assets/general.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "any"
