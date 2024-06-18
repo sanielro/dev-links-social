@@ -1,5 +1,5 @@
 # dev-links-social
 
-<img src="dev-links-social/blob/main/assets/saniel.png">
+<img src="assets/saniel.png">
 
 Dev Links Social
